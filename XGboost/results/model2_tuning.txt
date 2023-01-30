@@ -1,0 +1,902 @@
+========0========
+
+
+learning_rate: 0.2, max_dept: 9, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7785102991949404, mean_F1_deceased_scores=0.5138638628624891, mean_accuracy_score=0.9285350800526929
+
+
+========1========
+
+
+learning_rate: 0.05, max_dept: 10, min_child_weight: 3, colsample_bytree_list: 1, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7756658808922378, mean_F1_deceased_scores=0.49956862602463914, mean_accuracy_score=0.9280272563375049
+
+
+========2========
+
+
+learning_rate: 0.2, max_dept: 6, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.770775299963218, mean_F1_deceased_scores=0.47578662741296895, mean_accuracy_score=0.9263560613737312
+
+
+========3========
+
+
+learning_rate: 0.15, max_dept: 8, min_child_weight: 3, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7755410500997924, mean_F1_deceased_scores=0.5039552423836875, mean_accuracy_score=0.9279542652547669
+
+
+========4========
+
+
+learning_rate: 0.05, max_dept: 4, min_child_weight: 3, colsample_bytree_list: 1, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7761479014565642, mean_F1_deceased_scores=0.5003842153588534, mean_accuracy_score=0.9265020963165629
+
+
+========5========
+
+
+learning_rate: 0.2, max_dept: 4, min_child_weight: 7, colsample_bytree_list: 1, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7608995597489774, mean_F1_deceased_scores=0.468234593489958, mean_accuracy_score=0.9203288873689012
+
+
+========6========
+
+
+learning_rate: 0.05, max_dept: 6, min_child_weight: 5, colsample_bytree_list: 0.3, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7845104349048742, mean_F1_deceased_scores=0.5259216864141912, mean_accuracy_score=0.9313673240614074
+
+
+========7========
+
+
+learning_rate: 0.01, max_dept: 5, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7912428029394306, mean_F1_deceased_scores=0.5371774512807928, mean_accuracy_score=0.9370322870750367
+
+
+========8========
+
+
+learning_rate: 0.15, max_dept: 5, min_child_weight: 3, colsample_bytree_list: 1, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7671780491157401, mean_F1_deceased_scores=0.4709757438192018, mean_accuracy_score=0.9228709086993969
+
+
+========9========
+
+
+learning_rate: 0.05, max_dept: 4, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7831406323117803, mean_F1_deceased_scores=0.5214903360960068, mean_accuracy_score=0.9296973429768117
+
+
+========10========
+
+
+learning_rate: 0.2, max_dept: 7, min_child_weight: 1, colsample_bytree_list: 0.3, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7725714689062358, mean_F1_deceased_scores=0.49551113988963086, mean_accuracy_score=0.9270099728091064
+
+
+========11========
+
+
+learning_rate: 0.15, max_dept: 7, min_child_weight: 1, colsample_bytree_list: 1, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7620182534219022, mean_F1_deceased_scores=0.4695452523772759, mean_accuracy_score=0.9243956465014946
+
+
+========12========
+
+
+learning_rate: 0.15, max_dept: 8, min_child_weight: 5, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7780310051213825, mean_F1_deceased_scores=0.49933027753756554, mean_accuracy_score=0.9262834925098377
+
+
+========13========
+
+
+learning_rate: 0.2, max_dept: 8, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7809412961711948, mean_F1_deceased_scores=0.5147483361122992, mean_accuracy_score=0.9301327033828173
+
+
+========14========
+
+
+learning_rate: 0.2, max_dept: 3, min_child_weight: 5, colsample_bytree_list: 0.3, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7734467870627917, mean_F1_deceased_scores=0.49606787665851526, mean_accuracy_score=0.9260658914728681
+
+
+========15========
+
+
+learning_rate: 0.2, max_dept: 3, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7771599502103715, mean_F1_deceased_scores=0.49447092473685955, mean_accuracy_score=0.9273732921247742
+
+
+========16========
+
+
+learning_rate: 0.1, max_dept: 10, min_child_weight: 5, colsample_bytree_list: 0.7, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7719085159347217, mean_F1_deceased_scores=0.4859811630169932, mean_accuracy_score=0.925630478289507
+
+
+========17========
+
+
+learning_rate: 0.05, max_dept: 3, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7797149569014603, mean_F1_deceased_scores=0.5100587358628235, mean_accuracy_score=0.9272280488422758
+
+
+========18========
+
+
+learning_rate: 0.01, max_dept: 3, min_child_weight: 7, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7894475747934103, mean_F1_deceased_scores=0.5409896464810753, mean_accuracy_score=0.9349263650335242
+
+
+========19========
+
+
+learning_rate: 0.15, max_dept: 8, min_child_weight: 5, colsample_bytree_list: 1, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.769418277483072, mean_F1_deceased_scores=0.47439229498125907, mean_accuracy_score=0.9263566419246423
+
+
+========20========
+
+
+learning_rate: 0.15, max_dept: 4, min_child_weight: 5, colsample_bytree_list: 0.7, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7737990919087903, mean_F1_deceased_scores=0.5056726234943517, mean_accuracy_score=0.928026992450727
+
+
+========21========
+
+
+learning_rate: 0.2, max_dept: 5, min_child_weight: 7, colsample_bytree_list: 1, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7606819975277882, mean_F1_deceased_scores=0.4631124000523785, mean_accuracy_score=0.9204013506780836
+
+
+========22========
+
+
+learning_rate: 0.01, max_dept: 6, min_child_weight: 5, colsample_bytree_list: 0.5, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7890541961886072, mean_F1_deceased_scores=0.5311566135845562, mean_accuracy_score=0.9361608801574033
+
+
+========23========
+
+
+learning_rate: 0.05, max_dept: 7, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7796428883613193, mean_F1_deceased_scores=0.5133912095754747, mean_accuracy_score=0.9280996668693315
+
+
+========24========
+
+
+learning_rate: 0.05, max_dept: 10, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7790702171078798, mean_F1_deceased_scores=0.5075852026969164, mean_accuracy_score=0.9262110292006553
+
+
+========25========
+
+
+learning_rate: 0.2, max_dept: 10, min_child_weight: 5, colsample_bytree_list: 1, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7678054615974025, mean_F1_deceased_scores=0.4965441012829469, mean_accuracy_score=0.9270103422505953
+
+
+========26========
+
+
+learning_rate: 0.2, max_dept: 6, min_child_weight: 5, colsample_bytree_list: 0.7, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7665117823149757, mean_F1_deceased_scores=0.4750196218464294, mean_accuracy_score=0.9234513012784786
+
+
+========27========
+
+
+learning_rate: 0.1, max_dept: 6, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.774686040596039, mean_F1_deceased_scores=0.4937015591042231, mean_accuracy_score=0.9262115041968553
+
+
+========28========
+
+
+learning_rate: 0.2, max_dept: 8, min_child_weight: 1, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.769413465047798, mean_F1_deceased_scores=0.4836754750617347, mean_accuracy_score=0.9265016740977184
+
+
+========29========
+
+
+learning_rate: 0.15, max_dept: 3, min_child_weight: 7, colsample_bytree_list: 0.4, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7698099009084256, mean_F1_deceased_scores=0.4906306702518387, mean_accuracy_score=0.9282445934876966
+
+
+========30========
+
+
+learning_rate: 0.05, max_dept: 8, min_child_weight: 5, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7905171578824394, mean_F1_deceased_scores=0.5393639170009272, mean_accuracy_score=0.9365238300315818
+
+
+========31========
+
+
+learning_rate: 0.15, max_dept: 4, min_child_weight: 5, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.775417660604289, mean_F1_deceased_scores=0.4957260207969346, mean_accuracy_score=0.9271553216463158
+
+
+========32========
+
+
+learning_rate: 0.01, max_dept: 4, min_child_weight: 5, colsample_bytree_list: 0.3, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7822416197745661, mean_F1_deceased_scores=0.5125032018815942, mean_accuracy_score=0.9329648946141764
+
+
+========33========
+
+
+learning_rate: 0.1, max_dept: 5, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7815997517926568, mean_F1_deceased_scores=0.5068725193422569, mean_accuracy_score=0.9294792669436424
+
+
+========34========
+
+
+learning_rate: 0.01, max_dept: 9, min_child_weight: 3, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7900636951348275, mean_F1_deceased_scores=0.5355481193473255, mean_accuracy_score=0.9352165877117427
+
+
+========35========
+
+
+learning_rate: 0.05, max_dept: 6, min_child_weight: 3, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7915894840287638, mean_F1_deceased_scores=0.5365065000198961, mean_accuracy_score=0.9368143165965781
+
+
+========36========
+
+
+learning_rate: 0.1, max_dept: 8, min_child_weight: 1, colsample_bytree_list: 0.7, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7757400926183264, mean_F1_deceased_scores=0.5164812455117469, mean_accuracy_score=0.9288256721724004
+
+
+========37========
+
+
+learning_rate: 0.05, max_dept: 10, min_child_weight: 5, colsample_bytree_list: 0.4, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7862725712097968, mean_F1_deceased_scores=0.5337140439384308, mean_accuracy_score=0.9338369348600768
+
+
+========38========
+
+
+learning_rate: 0.1, max_dept: 5, min_child_weight: 7, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7851408438073968, mean_F1_deceased_scores=0.524475635945864, mean_accuracy_score=0.929261402019895
+
+
+========39========
+
+
+learning_rate: 0.15, max_dept: 9, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7722931858299381, mean_F1_deceased_scores=0.4818381376126977, mean_accuracy_score=0.9260662609143571
+
+
+========40========
+
+
+learning_rate: 0.05, max_dept: 9, min_child_weight: 3, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.783333206821413, mean_F1_deceased_scores=0.5250154707194875, mean_accuracy_score=0.9294793724983533
+
+
+========41========
+
+
+learning_rate: 0.1, max_dept: 7, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7725013257879842, mean_F1_deceased_scores=0.504875602711499, mean_accuracy_score=0.928607596139231
+
+
+========42========
+
+
+learning_rate: 0.15, max_dept: 10, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7765310290428881, mean_F1_deceased_scores=0.5098328772762774, mean_accuracy_score=0.9264289996791139
+
+
+========43========
+
+
+learning_rate: 0.2, max_dept: 3, min_child_weight: 3, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7840691531052653, mean_F1_deceased_scores=0.5229160556660611, mean_accuracy_score=0.9301329144922397
+
+
+========44========
+
+
+learning_rate: 0.01, max_dept: 4, min_child_weight: 1, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.773317925135271, mean_F1_deceased_scores=0.45349177067255547, mean_accuracy_score=0.9340541664555573
+
+
+========45========
+
+
+learning_rate: 0.1, max_dept: 10, min_child_weight: 5, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7775362703335345, mean_F1_deceased_scores=0.48982052526196573, mean_accuracy_score=0.9268650461907416
+
+
+========46========
+
+
+learning_rate: 0.2, max_dept: 3, min_child_weight: 1, colsample_bytree_list: 0.5, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7810490332192559, mean_F1_deceased_scores=0.5057824802266965, mean_accuracy_score=0.9293340764384995
+
+
+========47========
+
+
+learning_rate: 0.1, max_dept: 4, min_child_weight: 1, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7736091830689922, mean_F1_deceased_scores=0.49013692421440086, mean_accuracy_score=0.9268649406360305
+
+
+========48========
+
+
+learning_rate: 0.1, max_dept: 10, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7826705433200736, mean_F1_deceased_scores=0.5175238075957186, mean_accuracy_score=0.9311494063603047
+
+
+========49========
+
+
+learning_rate: 0.05, max_dept: 10, min_child_weight: 7, colsample_bytree_list: 0.4, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7821079514719285, mean_F1_deceased_scores=0.5126664603248081, mean_accuracy_score=0.9286804816672578
+
+
+========50========
+
+
+learning_rate: 0.2, max_dept: 7, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7682571203357907, mean_F1_deceased_scores=0.4867014858719815, mean_accuracy_score=0.9267923189947813
+
+
+========51========
+
+
+learning_rate: 0.15, max_dept: 5, min_child_weight: 1, colsample_bytree_list: 0.3, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7805772499215442, mean_F1_deceased_scores=0.5096038239678643, mean_accuracy_score=0.9297696479539275
+
+
+========52========
+
+
+learning_rate: 0.2, max_dept: 3, min_child_weight: 5, colsample_bytree_list: 0.5, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7785953523638118, mean_F1_deceased_scores=0.5057762756394054, mean_accuracy_score=0.9285353439394708
+
+
+========53========
+
+
+learning_rate: 0.05, max_dept: 3, min_child_weight: 7, colsample_bytree_list: 0.4, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7850043225244044, mean_F1_deceased_scores=0.5213855218278872, mean_accuracy_score=0.9282446990424077
+
+
+========54========
+
+
+learning_rate: 0.15, max_dept: 6, min_child_weight: 7, colsample_bytree_list: 1, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.772758734752527, mean_F1_deceased_scores=0.4866751061663786, mean_accuracy_score=0.9262116097515666
+
+
+========55========
+
+
+learning_rate: 0.15, max_dept: 3, min_child_weight: 1, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7731319700401562, mean_F1_deceased_scores=0.4940358381655228, mean_accuracy_score=0.9274456498792454
+
+
+========56========
+
+
+learning_rate: 0.05, max_dept: 6, min_child_weight: 3, colsample_bytree_list: 0.7, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.779618899158576, mean_F1_deceased_scores=0.5034039462078065, mean_accuracy_score=0.9277364003310196
+
+
+========57========
+
+
+learning_rate: 0.05, max_dept: 4, min_child_weight: 5, colsample_bytree_list: 0.7, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7777192144318341, mean_F1_deceased_scores=0.5045586532238258, mean_accuracy_score=0.9290436426508586
+
+
+========58========
+
+
+learning_rate: 0.01, max_dept: 9, min_child_weight: 5, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7892624312929483, mean_F1_deceased_scores=0.5271289030000665, mean_accuracy_score=0.9351440188478491
+
+
+========59========
+
+
+learning_rate: 0.05, max_dept: 3, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7833544455732866, mean_F1_deceased_scores=0.5126960282268833, mean_accuracy_score=0.9288258305044671
+
+
+========60========
+
+
+learning_rate: 0.2, max_dept: 8, min_child_weight: 3, colsample_bytree_list: 0.3, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7779594913336692, mean_F1_deceased_scores=0.4960059185131631, mean_accuracy_score=0.9281719718464476
+
+
+========61========
+
+
+learning_rate: 0.05, max_dept: 4, min_child_weight: 1, colsample_bytree_list: 1, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7738323802181475, mean_F1_deceased_scores=0.4980383609337823, mean_accuracy_score=0.9272284710611205
+
+
+========62========
+
+
+learning_rate: 0.01, max_dept: 10, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7902755313130571, mean_F1_deceased_scores=0.5413043564229509, mean_accuracy_score=0.9357248864231309
+
+
+========63========
+
+
+learning_rate: 0.15, max_dept: 4, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7787020006776493, mean_F1_deceased_scores=0.4957548701378343, mean_accuracy_score=0.928607596139231
+
+
+========64========
+
+
+learning_rate: 0.01, max_dept: 4, min_child_weight: 5, colsample_bytree_list: 0.4, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.791189871453913, mean_F1_deceased_scores=0.5347468570010345, mean_accuracy_score=0.9353619365489522
+
+
+========65========
+
+
+learning_rate: 0.2, max_dept: 4, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7688111215703517, mean_F1_deceased_scores=0.4722380189076262, mean_accuracy_score=0.9233061107733359
+
+
+========66========
+
+
+learning_rate: 0.2, max_dept: 6, min_child_weight: 3, colsample_bytree_list: 1, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7543274456254652, mean_F1_deceased_scores=0.4448990837647397, mean_accuracy_score=0.9185854929827227
+
+
+========67========
+
+
+learning_rate: 0.01, max_dept: 10, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7851390107541582, mean_F1_deceased_scores=0.5323759741562044, mean_accuracy_score=0.9310046908513622
+
+
+========68========
+
+
+learning_rate: 0.2, max_dept: 4, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.763708553998032, mean_F1_deceased_scores=0.4686858507373996, mean_accuracy_score=0.9243230776376011
+
+
+========69========
+
+
+learning_rate: 0.1, max_dept: 6, min_child_weight: 5, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7808102555553682, mean_F1_deceased_scores=0.5067238500736145, mean_accuracy_score=0.9291161059600412
+
+
+========70========
+
+
+learning_rate: 0.2, max_dept: 8, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7758641010770865, mean_F1_deceased_scores=0.49484726844456856, mean_accuracy_score=0.9270827000050668
+
+
+========71========
+
+
+learning_rate: 0.15, max_dept: 6, min_child_weight: 5, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7785137402670128, mean_F1_deceased_scores=0.4989227999336744, mean_accuracy_score=0.9270102366958841
+
+
+========72========
+
+
+learning_rate: 0.15, max_dept: 4, min_child_weight: 1, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7798842350934126, mean_F1_deceased_scores=0.5205599120631664, mean_accuracy_score=0.9311497230244381
+
+
+========73========
+
+
+learning_rate: 0.01, max_dept: 8, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7907200312123773, mean_F1_deceased_scores=0.5335122194179729, mean_accuracy_score=0.9360881001840873
+
+
+========74========
+
+
+learning_rate: 0.2, max_dept: 7, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.771888411777874, mean_F1_deceased_scores=0.4888753483759404, mean_accuracy_score=0.9265017796524294
+
+
+========75========
+
+
+learning_rate: 0.15, max_dept: 7, min_child_weight: 7, colsample_bytree_list: 0.3, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7757207588886685, mean_F1_deceased_scores=0.5141573704785045, mean_accuracy_score=0.9282445934876966
+
+
+========76========
+
+
+learning_rate: 0.01, max_dept: 5, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7901217898533361, mean_F1_deceased_scores=0.5222269128960235, mean_accuracy_score=0.9370321815203256
+
+
+========77========
+
+
+learning_rate: 0.05, max_dept: 6, min_child_weight: 1, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7826031542435656, mean_F1_deceased_scores=0.515689262095279, mean_accuracy_score=0.9288981882589384
+
+
+========78========
+
+
+learning_rate: 0.1, max_dept: 7, min_child_weight: 7, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7818197850016974, mean_F1_deceased_scores=0.5153727856843227, mean_accuracy_score=0.9303505683065646
+
+
+========79========
+
+
+learning_rate: 0.1, max_dept: 10, min_child_weight: 1, colsample_bytree_list: 0.3, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7812094617417563, mean_F1_deceased_scores=0.5070541045654877, mean_accuracy_score=0.9302055361334889
+
+
+========80========
+
+
+learning_rate: 0.2, max_dept: 9, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7800233267655277, mean_F1_deceased_scores=0.5041471874593589, mean_accuracy_score=0.9275907876070324
+
+
+========81========
+
+
+learning_rate: 0.05, max_dept: 3, min_child_weight: 3, colsample_bytree_list: 0.7, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7776033369072917, mean_F1_deceased_scores=0.5032472650800061, mean_accuracy_score=0.9283899423249059
+
+
+========82========
+
+
+learning_rate: 0.1, max_dept: 8, min_child_weight: 1, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7834236472782425, mean_F1_deceased_scores=0.5245820080558725, mean_accuracy_score=0.9315854528719326
+
+
+========83========
+
+
+learning_rate: 0.1, max_dept: 5, min_child_weight: 5, colsample_bytree_list: 1, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7677697538408802, mean_F1_deceased_scores=0.4824815651366744, mean_accuracy_score=0.9241052127138539
+
+
+========84========
+
+
+learning_rate: 0.05, max_dept: 5, min_child_weight: 3, colsample_bytree_list: 0.3, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7896590753718594, mean_F1_deceased_scores=0.5365100386916837, mean_accuracy_score=0.9364512083903328
+
+
+========85========
+
+
+learning_rate: 0.05, max_dept: 5, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7799637121007235, mean_F1_deceased_scores=0.5213293949935168, mean_accuracy_score=0.9289710737869653
+
+
+========86========
+
+
+learning_rate: 0.01, max_dept: 7, min_child_weight: 3, colsample_bytree_list: 0.5, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7899812033402986, mean_F1_deceased_scores=0.5418165757473989, mean_accuracy_score=0.9360884696255762
+
+
+========87========
+
+
+learning_rate: 0.1, max_dept: 6, min_child_weight: 5, colsample_bytree_list: 1, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7707119811903506, mean_F1_deceased_scores=0.48714230230306255, mean_accuracy_score=0.9263568530340647
+
+
+========88========
+
+
+learning_rate: 0.01, max_dept: 9, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7826605922166475, mean_F1_deceased_scores=0.5254888755012679, mean_accuracy_score=0.9310045852966509
+
+
+========89========
+
+
+learning_rate: 0.05, max_dept: 10, min_child_weight: 5, colsample_bytree_list: 0.4, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7834348792343403, mean_F1_deceased_scores=0.5207206706545245, mean_accuracy_score=0.9286078600260087
+
+
+========90========
+
+
+learning_rate: 0.05, max_dept: 3, min_child_weight: 7, colsample_bytree_list: 0.3, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7889867710154459, mean_F1_deceased_scores=0.5294912271269797, mean_accuracy_score=0.9289707043454764
+
+
+========91========
+
+
+learning_rate: 0.01, max_dept: 7, min_child_weight: 7, colsample_bytree_list: 0.5, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7894600197501489, mean_F1_deceased_scores=0.5363823692676225, mean_accuracy_score=0.9346358256911722
+
+
+========92========
+
+
+learning_rate: 0.15, max_dept: 6, min_child_weight: 5, colsample_bytree_list: 0.3, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7804906057909096, mean_F1_deceased_scores=0.5069525628005873, mean_accuracy_score=0.927518218743139
+
+
+========93========
+
+
+learning_rate: 0.01, max_dept: 4, min_child_weight: 5, colsample_bytree_list: 0.4, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7876726835041273, mean_F1_deceased_scores=0.5315468873249791, mean_accuracy_score=0.9362333434665855
+
+
+========94========
+
+
+learning_rate: 0.1, max_dept: 7, min_child_weight: 1, colsample_bytree_list: 0.4, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7831392600455367, mean_F1_deceased_scores=0.5224458255142097, mean_accuracy_score=0.9296971318673896
+
+
+========95========
+
+
+learning_rate: 0.2, max_dept: 5, min_child_weight: 5, colsample_bytree_list: 0.3, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7754437023520518, mean_F1_deceased_scores=0.4949542074643706, mean_accuracy_score=0.927954476364189
+
+
+========96========
+
+
+learning_rate: 0.1, max_dept: 5, min_child_weight: 3, colsample_bytree_list: 1, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7728798832518196, mean_F1_deceased_scores=0.4907530622353443, mean_accuracy_score=0.9251220212460523
+
+
+========97========
+
+
+learning_rate: 0.15, max_dept: 6, min_child_weight: 7, colsample_bytree_list: 0.7, n_estimators: 100,
+
+
+mean_F1_macro_scores=0.7765295938806943, mean_F1_deceased_scores=0.5177212067788443, mean_accuracy_score=0.9277366114404417
+
+
+========98========
+
+
+learning_rate: 0.15, max_dept: 10, min_child_weight: 7, colsample_bytree_list: 0.4, n_estimators: 300,
+
+
+mean_F1_macro_scores=0.7733943133739049, mean_F1_deceased_scores=0.4923471562139793, mean_accuracy_score=0.9264294746753139
+
+
+========99========
+
+
+learning_rate: 0.15, max_dept: 7, min_child_weight: 3, colsample_bytree_list: 0.3, n_estimators: 200,
+
+
+mean_F1_macro_scores=0.7788901056815789, mean_F1_deceased_scores=0.5056747173610954, mean_accuracy_score=0.9300602928509907
+
+
+best_params: [0.01, 7, 3, 0.5, 300]
+best_score: 0.7788901056815789
